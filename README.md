@@ -21,10 +21,3 @@ Install dependencies:
 ```bash
 pip install gensim numpy scikit-learn matplotlib
 
-
-## Usage
-1. **Clone the repository**
-```bash
-git clone https://github.com/<your-username>/word2vec.git
-cd word2vec
-
